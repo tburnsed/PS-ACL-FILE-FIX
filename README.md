@@ -5,3 +5,6 @@ Scripts that fix file Permissons for directorys and files that were copied witho
 * Does not modify exisiting files expect for their ACL's
 * Must have orignal files or direcotrys to copy from
 * Copies any new files that does not exist
+* Scripts must be udpated with your Username and/or directorites to run correctly 
+* ALWAYS TEST AND CHECK script before running 
+  
